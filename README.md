@@ -1,4 +1,4 @@
-### [![Life Status](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=👾+Hej!+I'm+Ania;)](https://git.io/typing-svg)
+### [![Life Status](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D3D3D3&width=435&lines=👾+Hej!+I'm+Ania;)](https://git.io/typing-svg)
 I can get interested in literally everything and I'm always eager to learn!
 
 
