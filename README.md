@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 |---------------|--------------------------|
 | **College**   | 🎓 Studying Computer Science |
 | **Learning**  | 🫀 Trying AppDev & learning AI fundamentals |
-| **Hobbies**   | 🪴 Pottery, 🧸 Lego      |
+| **Hobbies**   | 🪴 Pottery, 🧸 Lego, 📺 Crime Shows      |
 
 
 <!--[![Life Status](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8968CD&width=435&lines=🎓+Computer+Science+Student;)](https://git.io/typing-svg)-->
